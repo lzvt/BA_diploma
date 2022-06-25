@@ -8,6 +8,9 @@ In simple words, if a particular region is characterized by high economic concen
 (It turned out that there really is a difference for governors between regions with a dominant company and regions with no large companies at all.) This may probably be interpreted as the influence of regional elites. 
 
 Data on economic structure were taken from SPARK.
+
 That's the title - Effect Of The Economic Structure Of The Region On Gubernatorial Turnover In Russia, 2000-2020.
+
 That's the link - https://www.hse.ru/en/edu/vkr/470540865.
+
 The R script contains the Cox regression (survival analysis), Kaplan-Meier Survival curve.
